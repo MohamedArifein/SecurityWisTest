@@ -1,1 +1,0 @@
-insert into User1000 values (1,'user','user',TRUE,'USER');
